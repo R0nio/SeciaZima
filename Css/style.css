@@ -96,7 +96,7 @@ header,footer,main{
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
-    background-image: url(/Img/image\ 16111.svg);
+    background-image: url(/Img/image\ 16p.jpg);
     background-size: 100%;
     display: flex;
 }
@@ -271,7 +271,7 @@ header,footer,main{
     align-items: center;
     display: flex;
     color: white;
-    background-image: url(/Img/image\ 14111.svg);
+    background-image: url(/Img/image\ 14s.jpg);
     background-size: 100%;
 }
 .macf{
