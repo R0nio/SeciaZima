@@ -96,7 +96,8 @@ header,footer,main{
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
-    background-image: url(".Img/image\ 16p.jpg");
+    background-image: url("Img/image\ 16p.jpg");
+	background-image: url("../Img/image\ 16p.jpg");
     background-size: 100%;
     display: flex;
 }
